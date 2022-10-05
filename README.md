@@ -4,5 +4,6 @@
 
 👀 I’m interested in AI and Web Development
 
-## Connect with me:
-📫 My account in Linkedin: https://www.linkedin.com/in/shahad-almania
+## 📫 Connect with me:
+Linkedin: https://www.linkedin.com/in/shahad-almania
+Email: Sh.almaniaa@gmail.com
