@@ -5,5 +5,6 @@
 👀 I’m interested in AI and Web Development
 
 ## 📫 Connect with me:
-<a href="https://www.linkedin.com/in/shahad-almania"> <img width="40" src="https://user-images.githubusercontent.com/114902383/194180831-e23fb4c7-c629-4f62-afae-51ef2afca675.png"> </a>
-Email: Sh.almaniaa@gmail.com
+<a href="https://www.linkedin.com/in/shahad-almania"> <img width="70" src="https://i.pinimg.com/originals/c3/b5/07/c3b507c021257c58436827156e17a7ef.png"></a>
+<a href="Sh.almaniaa@gmail.com"> <img width="95" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png"></a>
+
