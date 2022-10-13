@@ -2,7 +2,7 @@
 <img width="400" alt="image1" src="https://user-images.githubusercontent.com/114902383/194179552-e24490b2-bd4c-4250-ba76-5e0f11308367.png">
 
 
- I’m interested in AI and Web Application Development
+ Computer science graduate, I’m interested in AI and Web Application Development
 
 ## Languages:
 <img width="90" src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/12260009/java.png"><img width="45" src="https://logodix.com/logo/374728.png">
