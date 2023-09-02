@@ -11,7 +11,6 @@
 <img width="53" src="https://th.bing.com/th/id/R.293ab92b913741e2d5ae6ef5151d30f2?rik=j1923Y%2be1%2bzMzQ&pid=ImgRaw&r=0" alt="bootstap">
 <img width="60" src="https://i.pinimg.com/originals/2d/a9/1f/2da91f8ab2ce6a930f48d655f72fab47.png" alt="react">
 <img width="140" src="https://4.bp.blogspot.com/-ou-a_Aa1t7A/W6IhNc3Q0gI/AAAAAAAAD6Y/pwh44arKiuM_NBqB1H7Pz4-7QhUxAgZkACLcBGAs/s1600/spring-boot-logo.png" alt="spring boot">
-<img width="50" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png">
 <img width="120" src="https://pngimg.com/uploads/mysql/mysql_PNG1.png" alt="sql">
 
 
